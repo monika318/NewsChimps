@@ -1,0 +1,32 @@
+{
+  "status": "ok",
+  "totalResults": 2,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Atlanta Journal Constitution"
+      },
+      "author": "Tamar Hallerman",
+      "title": "Eight Georgia GOP electors accept immunity deals in Fulton Trump probe - The Atlanta Journal Constitution",
+      "description": "",
+      "url": "https://www.ajc.com/politics/eight-gop-electors-accept-immunity-deals-in-fulton-trump-probe/VWJO62QAMFAZXJYDPVDJ3DHFI4/",
+      "urlToImage": "https://www.ajc.com/resizer/JRLOqD89TeSPGCdLBn0yg3_4bog=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/IY2VDKYUBBGSZKIKPCCCXD3ZYI.jpg",
+      "publishedAt": "2023-05-06T22:22:12Z",
+      "content": "Prosecutors have indicated theyre interested in the documents the GOP activists submitted to the National Archives following a ceremony in the state Capitol on Dec. 14, 2020, in which they claimed to… [+4425 chars]"
+    },
+    {
+      "source": {
+        "id": "newsweek",
+        "name": "Newsweek"
+      },
+      "author": "Andrew Stanton",
+      "title": "Former Prosecutors Explain How Trump 'Mucked Up' Defense in Rape Trial - Newsweek",
+      "description": "Trump has until 5 p.m. on Sunday to decide whether he will testify in the trial against E. Jean Carroll's rape allegations.",
+      "url": "https://www.newsweek.com/former-prosecutors-explain-how-trump-mucked-defense-rape-trial-1798840",
+      "urlToImage": "https://d.newsweek.com/en/full/2231659/ex-prosecutors-say-trump-mucked-defense.jpg",
+      "publishedAt": "2023-05-06T17:46:40Z",
+      "content": "Former President Donald Trump his defense against E. Jean Carroll's rape allegations with one to former prosecutor Jennifer Rodgers. Carroll, a former Elle colu… [+4053 chars]"
+    }
+  ]
+}
