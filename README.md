@@ -1,1 +1,1 @@
-NewsChimps is a news website created using the free newsAPI.
+NewsChimp is a news website that leverages the NEWSAPI to showcase news articles sourced from widely recognized countries. It offers the functionality to categorize news content based on different genres such as business, entertainment, and more, enabling users to sort and access news according to their preferences.
